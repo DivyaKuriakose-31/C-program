@@ -1,3 +1,8 @@
+/*Author:Divya Kuriakose
+  Date:07-02-2025
+  program to take the diagonals of the given matrix as zero
+*/
+
 #include<stdio.h>
 int main(){
     int row,col;
