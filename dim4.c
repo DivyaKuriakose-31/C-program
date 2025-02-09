@@ -1,3 +1,9 @@
+/*Author:Divya Kuriakose
+  Date:07-02-2025
+  Program to find the transpose of the  given matrix
+*/
+
+
 #include<stdio.h>
 int main(){
    int row,col;
