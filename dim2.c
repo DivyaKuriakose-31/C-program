@@ -1,3 +1,9 @@
+/*Author:Divya Kuriakose
+  Date:07-02-2025
+  program to add the diagonal element of the given square matrix
+*/
+
+
 #include<stdio.h>
 int main(){
     int row,col,sum=0;
