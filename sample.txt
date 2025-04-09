@@ -1,0 +1,2 @@
+C program" is a computer program written in the C programming language.
+A general-purpose, procedural language known for its efficiency and low-level access to system memory.
